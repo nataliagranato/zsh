@@ -34,4 +34,8 @@ Zsh-sintax-highlighting
 Acesse o arquivo de configuração do zsh para aplicar as nossas alterações:
 ```nano ~/.zshrc```
 
-Mude as configurações para: ZSH_THEME="spaceship", role até encontrar a sessão de plugins, a principio apenas o Git está configurado, então modifique para plugins=(git zsh-autosuggestions zsh-syntax-highlighting) e Crtl+o para salvar :D
+Altere as configurações para ZSH_THEME="spaceship", role até encontrar a sessão de plugins, a principio apenas o Git está configurado, então modifique para plugins=(git zsh-autosuggestions zsh-syntax-highlighting) e Crtl+o para salvar.
+
+![image](https://user-images.githubusercontent.com/91998391/156454551-0180d670-7e9a-47b6-97c1-ace8738d2402.png)
+
+
